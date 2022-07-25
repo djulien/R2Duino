@@ -2,14 +2,14 @@
 Use an Arduino robot car kit to make an operational R2D2 for under $100 USD.
 
 Start with this:
-![Robot car kit](doc/robot-car-kit.jpg)
+![Robot car kit](docs/robot-car-kit.jpg)
 
 End with this:
-![Low cost R2D2](doc/R2D2.jpg)
+![Low cost R2D2](docs/R2D2.jpg)
 
 by tranplanting the robot car parts into the R2D2:
-![Transplant body](doc/transplantB.jpg)
-![Transplant feet](doc/transplantF.jpg)
+![Transplant body](docs/transplantB.jpg)
+![Transplant feet](docs/transplantF.jpg)
 
 # Version History
 
