@@ -2,15 +2,18 @@
 Use an Arduino robot car kit to make an operational R2D2 for under $100 USD.
 
 Start with this:
-![Robot car kit](docs/robot-car-kit.jpg)
-<img src="https://github.com/djulien/R2Duino/raw/main/docs/robot-car-kit.jpg" width="40%">
+<!-- ![Robot car kit](docs/robot-car-kit.jpg) -->
+<img src="https://github.com/djulien/R2Duino/raw/main/docs/robot-car-kit.jpg" alt="Robot car kit" width="40%">
 
 End with this:
-![Low cost R2D2](docs/R2D2.jpg)
+<!-- ![R2D2 shell](docs/R2D2.jpg) -->
+<img src="https://github.com/djulien/R2Duino/raw/main/docs/R2D2.jpg" alt="R2D2 shell" width="40%">
 
 by tranplanting the robot car parts into the R2D2:
-![Transplant body](docs/transplantB.jpg)
-![Transplant feet](docs/transplantF.jpg)
+<!-- ![Transplant body](docs/xplantB.jpg) -->
+<img src="https://github.com/djulien/R2Duino/raw/main/docs/xplantB.jpg" alt="Transplant body" width="40%">
+<!-- ![Transplant feet](docs/xplantF.jpg) -->
+<img src="https://github.com/djulien/R2Duino/raw/main/docs/xplantF.jpg" alt="Transplant feet" width="40%">
 
 # Version History
 
