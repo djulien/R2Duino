@@ -11,7 +11,10 @@ to make a low-cost<sup>*</sup> operational R2D2 like: <br/>
 
 To do this, robot car parts will be "transplanted" into the <br/>
 | R2D2 body | and feet |
+:-------:|:-----:
 <img src="https://github.com/djulien/R2Duino/raw/main/docs/xplantB.jpg" alt="Transplant body" width="30%"> | <img src="https://github.com/djulien/R2Duino/raw/main/docs/xplantF.jpg" alt="Transplant feet" width="30%">
+
+<sup>*</sup>total R2D2 cost was ~ $100 USD, depending on options
 
 # Version History
 
