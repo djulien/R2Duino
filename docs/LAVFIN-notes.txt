@@ -1,0 +1,24 @@
+- alum blocks threaded 1 edge only, goes down
+- orient motors with wires inward?
+- check bridge orientation?
+- M3*6 for LM298 bridge too short; swap all 4 with M3*8 cell box
+- put middle line-follower nuts on first
+- orientation of colored (thinner) plate matters
+- fasten top to bottom < connecting motor wires?
+- BT !install?
+- IR sensor (lesson 7): follow wiring pictures, not text! (+5 + signal swapped)
+- line tracking (lesson 8): example only uses 1 sensor; how to use 3?
+- BT (lesson 9): LAFVIN app !found in Play Store, but other app worked; why unplug each time?
+- Motor driver (Lesson 10): hook this up < attaching upper deck?
+- loosen H bridge terminal  screws < assembly, remove jumpers, no LED on bridge board?
+
+SG90 servo: seems reasonably strong for its size; Amazon 10 for $20, 2.5 kg-cm, 5-6V
+Miuzei Micro Servo Motor Stall Torque (4.8V): 17.5oz /in (1kg/cm); Dead band width: 7usec; Amplifier Type: Analog Controller; Operating Voltage: 4.8V～6.0V;
+
+
+https://www.youtube.com/watch?v=kUHmYKWwuWs&ab_channel=DroneBotWorkshop
+100 uF cap across power to Arduino if shared with motor/servo
+use PWM pin, Ard Uno has 6
+
+
+
